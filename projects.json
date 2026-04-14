@@ -658,5 +658,20 @@
   "district": "CA-07",
   "state": "CA",
   "tags": ["environment", "ai"]
+},
+{
+  "slug": "OK-05",
+  "name": "Samaksh Bhargav",
+  "appName": "Disaster Ready",
+  "description": "A one-sentence description of your app.",
+  "thumbnail": "sites/OK-05/logo.png",
+  "location": {
+    "lat": 35.4689,
+    "lng": -97.5195,
+    "label": "Oklahoma City, OK"
+  },
+  "district": "OK-05",
+  "state": "OK",
+  "tags": ["weather", "natural disaster"]
 }
 ]
